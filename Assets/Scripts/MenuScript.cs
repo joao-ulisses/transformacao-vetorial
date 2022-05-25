@@ -43,4 +43,9 @@ public class MenuScript : MonoBehaviour
     {
         SceneManager.LoadScene("Shear");
     }
+
+    public void OnClickBack()
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }
