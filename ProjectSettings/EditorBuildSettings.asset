@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 881cd65b3ab2ee848b696535ef22099d
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Reflection.unity
+    guid: 5bf164ea81968f6419b007e3f82d857d
+  - enabled: 1
+    path: Assets/Scenes/DilationContraction.unity
+    guid: b2e52a4f60130d54e8e95bb66d0aa869
+  - enabled: 1
+    path: Assets/Scenes/Rotation.unity
+    guid: 2b388514fd69cc544b4a4239a46d7be4
+  - enabled: 1
+    path: Assets/Scenes/Shear.unity
+    guid: 8ef5d44f3eba3b044ad44ee322fa01d7
   m_configObjects: {}
